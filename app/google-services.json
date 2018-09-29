@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987661708444",
+    "firebase_url": "https://cheatingprogram-437b5.firebaseio.com",
+    "project_id": "cheatingprogram-437b5",
+    "storage_bucket": "cheatingprogram-437b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987661708444:android:52fa5f1dae369fc2",
+        "android_client_info": {
+          "package_name": "taeeun.com.cheatingprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987661708444-uqnm2bb070on33fvch4ma7p1p133d3c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taeeun.com.cheatingprogram",
+            "certificate_hash": "0f58a444c6b23c4e681feddb5896271beb0c2c1a"
+          }
+        },
+        {
+          "client_id": "987661708444-0ihm1s6b4l0p8f435bnql6u4r29f5d49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfKd8FnZIc5P6uYNbTY1L5OiZyEXs446M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987661708444-0ihm1s6b4l0p8f435bnql6u4r29f5d49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
